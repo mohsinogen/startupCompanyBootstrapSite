@@ -1,2 +1,2 @@
 # startupCompanyBootstrapSite
-a basic tech company template with bootstrap.
+A basic bootstrap tech company site template, completely responsible.
